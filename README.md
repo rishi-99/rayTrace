@@ -11,7 +11,13 @@ can be customized as per user requierements.
 
 
 
-[![Development history](https://github.com/rishi-99/rayTrace/blob/master/media/objectinteraction.mp4)
+[![Bots Interaction](https://ezgif.com/optimize/ezgif-7-073ef7227e03.gif)
+
+
+[![Bots sensing walls](https://github.com/rishi-99/rayTrace/blob/master/training.gif)
+
+
+[![Bots in open field](https://github.com/rishi-99/rayTrace/blob/master/hidenseek.gif)
 
 
 

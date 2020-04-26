@@ -11,7 +11,7 @@ can be customized as per user requierements.
 
 
 
-[![Development history](https://github.com/rishi-99/rayTrac/theInfected.gif)](https://github.com/rishi-99/theInfection/blob/master/media/theInfection.avi)
+[![Development history](https://github.com/rishi-99/rayTrac/theInfected.gif)](https://github.com/rishi-99/rayTrace/blob/master/media/RayTracing.mov)
 
 
 

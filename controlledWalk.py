@@ -20,12 +20,4 @@ for x in range(1000):
     cv2.imshow("RayTracing", state[1])
     if cv2.waitKey(80) == ord('q'):
         break
-
-
-# rayTrace
-
-
-
-# Description
-
-## Will update soon .. 
+ 

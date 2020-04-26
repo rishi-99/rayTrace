@@ -11,7 +11,7 @@ can be customized as per user requierements.
 
 
 
-[![Bots Interaction](https://ezgif.com/optimize/ezgif-7-073ef7227e03.gif)
+[![Bots Interaction](https://github.com/rishi-99/rayTrace/blob/master/ezgif.com-optimize.gif)
 
 
 [![Bots sensing walls](https://github.com/rishi-99/rayTrace/blob/master/training.gif)
